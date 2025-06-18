@@ -42,7 +42,10 @@ O objetivo deste projeto é auxiliar no acompanhamento e análise de aplicaçõe
 🖼 Capturas de Tela
 As imagens abaixo ilustram a aplicação prática das fórmulas utilizadas na planilha.
 
-(Coloque suas imagens dentro da pasta /images e insira aqui)
+## 🖼 Captura de Tela
+
+![Descrição da imagem](./images/tela-exemplo.png)
+
 
 ✍️ Autor
 Desenvolvido por Seu Nome ou Usuário GitHub.
