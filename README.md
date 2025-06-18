@@ -51,4 +51,4 @@ O objetivo deste projeto é auxiliar no acompanhamento e análise de aplicaçõe
 
 
 ✍️ Autor
-Desenvolvido por Seu Nome ou Usuário GitHub.
+Desenvolvido por Murillo MA - Desenvolvedor e Cientista de Dados IA
