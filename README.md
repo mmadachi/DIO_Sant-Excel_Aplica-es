@@ -14,7 +14,7 @@ Aqui você encontrará planilhas, descrições e outras informações úteis sob
 As planilhas estão organizadas na pasta `/planilhas`, contendo dados financeiros usados no projeto.
 
 - [relatorio.xlsx](./planilhas/relatorio.xlsx): Planilha principal com dados de simulação e acompanhamento.
-
+- [relatorio-financeiro.xlsx](./planilhas/relatorio-financeiro.xlsx)
 ---
 
 ## 🧾 Descrição do Projeto
