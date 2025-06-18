@@ -34,7 +34,10 @@ O objetivo deste projeto é auxiliar no acompanhamento e análise de aplicaçõe
 
 ## 🖼 Exemplo de Tela da Planilha
 
-![Planilha financeira exemplo](Projeto Teste Excel.jpg)
+## 🖼️ Captura da Planilha
+
+![Visual da planilha](./images/Projeto%20Teste%20Excel.jpg)
+
 
 ```bash
 /
