@@ -47,9 +47,10 @@ O objetivo deste projeto é auxiliar no acompanhamento e análise de aplicaçõe
 🖼 Capturas de Tela
 As imagens abaixo ilustram a aplicação prática das fórmulas utilizadas na planilha.
 
-## 🖼 Captura de Tela
+## 🖼️ Captura da Planilha
 
-Projeto Teste Excel.jpg
+![Visual da planilha](./images/Projeto%20Teste%20Excel.jpg)
+
 
 
 ✍️ Autor
