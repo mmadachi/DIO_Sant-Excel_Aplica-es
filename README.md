@@ -31,6 +31,11 @@ O objetivo deste projeto é auxiliar no acompanhamento e análise de aplicaçõe
 
 ## 🗂 Estrutura do Repositório
 
+
+## 🖼 Exemplo de Tela da Planilha
+
+![Planilha financeira exemplo](Projeto Teste Excel.jpg)
+
 ```bash
 /
 ├── README.md
@@ -44,7 +49,7 @@ As imagens abaixo ilustram a aplicação prática das fórmulas utilizadas na pl
 
 ## 🖼 Captura de Tela
 
-![Descrição da imagem](./images/tela-exemplo.png)
+Projeto Teste Excel.jpg
 
 
 ✍️ Autor
